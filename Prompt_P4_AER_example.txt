@@ -1,0 +1,50 @@
+Essay 1 - Reformulation:
+System: Você é um avaliador automático de redações do Exame Nacional do Ensino Médio (ENEM), especializado na Competência III – argumentação. 
+A Competência III avalia a capacidade do participante de selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista sobre um dado tema. 
+
+Sua tarefa é reformular a redação do aluno para atingir o nível 5 no critério "organização".
+Para isso, você deve reordenar as ideias, frases e parágrafos de modo a construir uma sequência lógica mais clara e hierarquizada, com progressão argumentativa fluida:
+1.  apresentação da tese →
+2.  argumentos principais →
+3.  evidências/explicações →
+4.  síntese, conclusão e sugestão de solução.
+O foco da reformulação é estrutura, não estilo.
+Você DEVE mover trechos, unir ou dividir parágrafos, alterar a ordem das frases e agrupar argumentos semelhantes para tornar a argumentação mais organizada, coerente e progressiva, 
+Não é suficiente apenas adicionar conectores, vírgulas ou pequenas correções superficiais.
+A versão reformulada deve apresentar diferenças estruturais perceptíveis, com as informações distribuídas da maneira mais estratégica possível — exceto quando a redação já apresentar organização excelente. Nesses casos, mantenha a estrutura original e faça apenas ajustes para garantir a progressão.
+Você não deve melhorar o desenvolvimento dos argumentos, nem acrescentar novas informações.
+Não melhore a gramática, ortografia ou vocabulário, exceto mudanças mínimas necessárias para manter a fluidez após a reorganização.
+ 
+Você deve responder apenas com JSON válido. Não inclua texto extra. Não inclua nenhum texto explicativo, comentário ou formatação Markdown. Forneça apenas JSON bruto que corresponda ao esquema exigido. 
+
+
+User: Aqui está a proposta de redação e alguns textos motivadores sobre o tema. 
+[INÍCIO_PROPOSTA_ARTIGOS] 
+[Preservação da Amazônia: Desafio brasileiro ou internacional?
+No final de agosto passado, as queimadas na floresta amazônica provocaram grande devastação, muitos debates e chamaram a atenção não só do Brasil, como também de outros países do mundo. O presidente da França se pronunciou sobre o assunto, declarando que a necessidade de proteção da floresta exige que a Amazônia receba o status de território internacional, em função de sua importância para o equilíbrio ecológico do planeta. O presidente do Brasil reagiu asperamente, classificando a proposta francesa de "colonialista" e afirmou a soberania brasileira sobre a região. Para Jair Bolsonaro, a Amazônia brasileira e deve servir aos interesses econômicos dos brasileiros, a quem cabe decidir o que proteger e o que explorar. De acordo com os conhecimentos que você tem sobre o tema, qual das duas posições lhe parece mais correta? A Amazônia deve continuar a ser brasileira ou ganhar status internacional? Por quê? A coletânea de textos que acompanha esta proposta pode fornecer subsídios para o desenvolvimento de sua redação.
+
+Status internacional
+O presidente da França, Emmanuel Macron, levantou a possibilidade de que houvesse um estatuto internacional para proteger a Amazônia. Segundo o líder francês, a proteção da floresta seria "uma questão real que se imporia se um Estado soberano tomasse medidas concretas que claramente se opusessem ao interesse do planeta".
+
+Para Macron, o estatuto internacional "é um caminho que permanecerá aberto, nos próximos meses e anos, pois o desafio no plano climático é tal que ninguém pode dizer que 'não é problema meu'". Ainda de acordo com o presidente francês: "A mesma coisa vale para aqueles países que têm em seu território glaciares ou regiões com impacto sobre o mundo inteiro".
+
+Em entrevista a um dos telejornais de maior audiência na França, Macron afirmou que não se deve responsabilizar o presidente brasileiro pela situação na Amazônia "de jeito nenhum". Acrescentou, entretanto, que Bolsonaro pode ser criticado por "ter apoiado projetos econômicos contrários aos interesses da floresta" e não ter sido claro em relação ao compromisso do governo com o replantio de árvores.
+
+"Mandamos uma mensagem clara [ao Brasil]: respeitamos sua soberania, mas esse assunto diz respeito ao planeta todo. Podemos ajudá-los a reflorestar, encontrar meios para o seu desenvolvimento econômico que respeitem esse equilíbrio, mas não podemos deixá-lo destruir tudo", acrescentou o presidente francês.
+
+A Amazônia é nossa
+O presidente Jair Bolsonaro, em entrevista à rádio Jovem Pan, falou sobre os riscos que o Brasil corre em não explorar ativamente a Amazônia. "A indústria da demarcação de reservas inviabiliza qualquer projeto (…) e eu vou rever isso para que indígenas e quilombolas possam vender ou explorar suas terras da maneira como acharem melhor. Eu quero explorar a região amazônica em parceria com os Estados Unidos, para não a perder". (...)
+
+Vista do lado da Europa, que já arrebentou suas florestas, muitas décadas e até séculos atrás, a desflorestação da Amazônia é uma coisa má, não apenas por causa de questões ambientais que afetarão todo o mundo, mas porque o equilíbrio ambiental vai ficar mais caro para as empresas europeias que vão precisar comprar mais CO2.
+
+Vista do Brasil, a coisa é diferente. Antes de ser patrimônio da humanidade, o território da Amazônia é parte integrante do Brasil. Independentemente de quem more no meio da selva, o Brasil é soberano e tem direito a dispor dela e a explorar economicamente, em conjunto com quem quiser, um recurso fantástico que é só seu por direito internacional. A soberania é inquestionável.
+
+Se a humanidade acha que tem direitos sobre a Amazônia, não tem problema. A humanidade que pague por eles. Até porque, como dizia o humorista Max Nunes, "o Brasil precisa explorar com urgência a sua riqueza - porque a pobreza não aguenta mais ser explorada".] 
+[FIM_PROPOSTA_ARTIGOS] 
+[INÍCIO REDAÇÃO] 
+Preservação da Amazônia: Responsabilidade nacional ou internacional?
+Sabe-se que, apesar de a Amazônia não ser o pulmão do mundo, ela é fundamental para o controle ambiental do planeta. As decorrentes queimadas e o desmatamento colocam em risco o equilíbrio da floresta e conseguintemente, dos demais biomas.
+O atual presidente da França levantou, após doações de diversos países a fim de reestruturar a floresta, uma sugestão: tornar seu estatuto internacional. Não só a Amazônia, mas também outros territórios que implicam no funcionamento ambiental, como as zonas glaciais, tornando-as de importância mundial.
+Devido aos fatos mencionados, nota-se que os países que custearam a manutenção da floresta desejam, além de reconhecimento, regência acerca do bioma. O que é conveniente, afinal, aumentaria a interação entre os países na exploração correta da floresta, além da sua proteção melhor distribuída, tornando-a "problema" de todos.
+No momento, a reestruturação da Amazônia é prioridade e também é de suma importância sua proteção, prevenindo-a de destruições futuras. Além disso, a exploração adequada de seus recursos, contribuindo para a economia e crescimento do Brasil e dos países aliados ao bioma que é patrimônio da humanidade.
+[FIM REDAÇÃO] 

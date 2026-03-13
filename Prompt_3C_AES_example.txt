@@ -1,0 +1,57 @@
+system:
+Você vai atuar como um examinador automático de redações do Exame Nacional do Ensino Médio (Enem).
+
+
+user:
+Sua tarefa é classificar uma redação segundo três critérios a serem descritos abaixo, que fazem parte da Competência III. 
+[INÍCIO INSTRUÇÕES] 
+A Competência III avalia a capacidade do participante de selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista sobre um dado tema.
+
+Há 3 critérios que devem ser avaliados:
+PONTO DE VISTA
+O critério mais básico da Competência III é a defesa de um ponto de vista. As informações, fatos e opiniões devem ter conexão entre si, e deve ser possível perceber uma direção única em defesa de um ponto de vista.
+Nível 0: Apresenta informações, fatos e opiniões não relacionados ao tema e sem defesa de um ponto de vista.
+Nível 1: Apresenta informações, fatos e opiniões pouco relacionados ao tema ou incoerentes e sem defesa de um ponto de vista.
+Nível 2: Apresenta informações, fatos e opiniões relacionados ao tema em defesa de um ponto de vista.
+
+DESENVOLVIMENTO
+Desenvolvimento é a fundamentação de argumentos, explicitando e explicando as relações existentes entre informações, fatos e opiniões e o ponto de vista defendido no texto. Ele pode incluir o uso de definições, comparações, exemplos, ilustrações, analogias, argumentos de autoridade, etc. Em outras palavras, o desenvolvimento é um desdobramento das informações apresentadas no texto. 
+Nível 2: Sem desenvolvimento ou com desenvolvimento de apenas uma informação, fato ou opinião.
+Nível 3: Desenvolvimento de algumas informações, fatos e opiniões.
+Nível 4: Desenvolvimento da maior parte das informações, fatos e opiniões incluídos na redação.
+Nível 5: Desenvolvimento das informações, fatos e opiniões em todo o texto. A argumentação deve ser articulada, clara e coerente.
+
+ORGANIZAÇÃO
+Espera-se que o autor seja capaz de selecionar os argumentos mais adequados, relacioná-los, organizá-los de forma clara e estratégica, além de interpretá-los, desenvolvendo-os para uma efetiva defesa do ponto de vista. Além de selecionar e relacionar corretamente informações, fatos, opiniões e argumentos, é necessário hierarquizá-los, observando quais deles funcionarão como argumentos mais importantes e quais serão complementares aos primeiros, definindo a maneira mais estratégica de apresentá-los.
+Nível 2: Argumentação desorganizada ou contraditória.
+Nível 3: Argumentação pouco organizada.
+Nível 4: Argumentação organizada.
+Nível 5: Argumentação consistente e organizada. 
+[FIM INSTRUÇÕES] 
+O texto abaixo (entre []) contém a proposta de redação a ser respondida pelo aluno e alguns extratos de artigos sobre o assunto, como material de apoio. 
+[INÍCIO PROPOSTA ARTIGOS] 
+[Os colégios militares de vários Estados do Brasil se tornaram destaque nos meios de comunicação pelos bons resultados que seus alunos obtiveram no Enem no ano passado. Para muitos pais e educadores, estabelecimentos de ensino regidos pela disciplina militar proporcionam aos alunos aquilo que se espera de uma escola: formar alunos competentes para enfrentar os desafios da educação, entre os quais o Enem e, depois, a vida universitária. Naturalmente, há quem não concorde com isso e por motivos tão razoáveis quanto aqueles dos que pensam diferente. Há quem diga que a rigidez da ordem militar não colabora com a formação de mentes abertas, críticas e criativas. Veja opiniões a favor e contra essas escolas na coletânea de textos que integra esta proposta de redação. Depois disso, redija um texto dissertativo-argumentativo, dizendo se você estuda ou estudaria num colégio militar, e quais são os motivos que o levam a tomar sua posição. Conclua seu texto refletindo se a disciplina, a ordem, o respeito à autoridade são ou não são úteis no processo educacional de um jovem.
+
+Respirando disciplina
+No Colégio Militar Tiradentes, em Maceió (Alagoas), os alunos vivem uma rotina militar. Lá se respira a palavra disciplina. Localizado no Trapiche da Barra, zona sul da cidade, há cinco anos se destaca no Enem por Escola com base em uma "didática" baseada no rigor. O estabelecimento tem a maior nota de uma escola da rede estadual no Estado, com média 521,17 entre as provas objetivas. 
+
+Para estudar no Tiradentes, o visual do aluno também tem que estar alinhado: ele tem de estar com cabelos cortados e arrumados no padrão militar, uniforme limpo e passado a ferro com vinco e, ainda, bater continência para professores, coordenadores e direção. 
+
+Segundo o professor de português e literatura, Paulo César dos Santos, a disciplina e o treino são fatores de sucesso dos alunos nos exames como o Enem. "O aluno escreve e nós corrigimos até o texto sair perfeito para entendimento de todos", disse. 
+
+Cidadania, curiosidade e criatividade
+Especialistas discordam da aplicação da militarização em sala de aula para obter resultados satisfatórios. A professora de história, especialista em gestão de sistemas educacionais, Pilar Lacerda, diz que o modelo abre mão da pedagogia ao apelar para a rigidez e a disciplina militar. "A escola de educação básica é o lugar da formação de valores, de conhecer e respeitar o outro. Do diálogo e da construção de normas comuns. Que cidadão está sendo formado neste modelo militar? A não ser que o jovem queira seguir carreira militar", argumenta Lacerda. 
+
+Ela explica que para estudantes se manterem focados nos estudos, a escola deve tornar a sala de aula mais atrativa e menos burocrática. "Que pense no projeto pedagógico que seja construído para o estudante entender o mundo e entender-se no mundo. Atiçar a curiosidade e incentivar a criatividade. Nada feito a força funciona", explica a professora. 
+
+Nível melhor ou método autoritário?
+Considerado um retrocesso por alguns educadores, o sistema que mantém policiais na direção das escolas está em expansão em Goiás. Segundo a polícia, o modelo melhora o desempenho dos alunos (em nove Estados os colégios ficaram em 1o entre as estaduais no Enem). O Brasil possui atualmente 93 instituições de ensino da PM. Neste ano, Minas criou mais duas, chegando a 22 – elas atendem mais de 20 mil alunos. A Bahia, com 13, deve abrir mais quatro. 
+
+Em Goiás, o comerciário Ricardo Cardoso, 41, que tem duas filhas em escolas da PM, quer colocar a terceira na instituição em 2016. A maioria das vagas é preenchida por sorteios. "O nível dessas escolas é muito melhor. " Sua filha Júlia, 17, diz gostar do colégio Hugo Ramos, mas reclama da rigidez. "Um ou outro PM é rude. Mas a maioria é aberta. " Para o pai, os alunos têm "voz ativa". "Sempre que minha filha reclamou, deram resposta. Adolescentes reclamam de tudo."
+
+Diretor de ensino de um colégio de Anápolis (GO), o sociólogo e capitão da PM Sirismar Silva diz que a polícia nas escolas não é ideal. "Mas é bom ouvir dos pais que seus filhos tiveram a vida mudada para melhor. " Para Maria Augusta Mundim, da Faculdade de Educação da federal de Goiás, o método é autoritário. "Cai por terra a busca por autonomia e de construção de identidade."] 
+[FIM PROPOSTA ARTIGOS] 
+[INÍCIO REDAÇÃO] 
+Antigamente a disciplina era cobrada nas escolas para obter bons resultados dos alunos. Mas infelizmente os tempos mudaram e hoje os estudantes estão se rebelando e se destacando entre os piores. Mas a culpa não seria primeiramente de casa? Até que ponto essa indisciplina chegará?O início de tudo é com os pais, pois a educação vem do lar, então cabe a eles educar e ensinar seus filhos respeitarem as autoridades. Se ali não são disciplinados a escola não será totalmente responsável pelos maus atos desse aluno. Contudo, sabe-se que a responsabilidade de agir com ordem e autoridade está na direção das escolas, pois é lá que preparam os jovens para o mundo. Se não for ensinado o respeito no ambiente escolar, não é do lado de fora que vão exercê-lo pelo contrário serão desrespeitados e o colégio ficará de mau exemplo para os próximos a estudar. Portanto, pode-se concluir que a educação vem primeiramente dos pais, mas a ordem, a autoridade e a disciplina nas escolas favorecem completamente o comportamento dos alunos. Se em casa não são ensinados o mundo os ensinará da pior maneira. Como diz a frase de um filósofo “Eduque as crianças e não será necessário punir os adultos”.
+[FIM REDAÇÃO] 
+Por favor, coloque as avaliações para os três critérios (ponto de vista, desenvolvimento e organização) nos campos apropriados do esquema JSON. 

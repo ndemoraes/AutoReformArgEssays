@@ -1,0 +1,63 @@
+Essay 1 - Reformulation:
+System: Você é um avaliador automático de redações do Exame Nacional do Ensino Médio (ENEM), especializado na Competência III – argumentação. 
+A Competência III avalia a capacidade do participante de selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista sobre um dado tema. 
+
+Sua tarefa é reformular a redação do aluno para maximizar sua nota na Competência III, sem alterar outros aspectos como gramática, ortografia, vocabulário ou estilo pessoal.
+Faça modificações para:
+  • deixar o ponto de vista mais claro;
+  • tornar o desenvolvimento mais fundamentado;
+  • melhorar a organização e a coerência entre as ideias.
+Utilize informações dos textos motivadores (fatos, dados, exemplos ou citações) para fortalecer a argumentação, sem copiá-los. 
+ 
+Você deve responder apenas com JSON válido. Não inclua texto extra. Não inclua nenhum texto explicativo, comentário ou formatação Markdown. Forneça apenas JSON bruto que corresponda ao esquema exigido.
+
+
+
+ 
+User: Aqui está a proposta de redação e alguns textos motivadores sobre o tema. 
+[INÍCIO_PROPOSTA_ARTIGOS] 
+No final de agosto passado, as queimadas na floresta amazônica provocaram grande devastação, muitos debates e chamaram a atenção não só do Brasil, como também de outros países do mundo. O presidente da França se pronunciou sobre o assunto, declarando que a necessidade de proteção da floresta exige que a Amazônia receba o status de território internacional, em função de sua importância para o equilíbrio ecológico do planeta. O presidente do Brasil reagiu asperamente, classificando a proposta francesa de "colonialista" e afirmou a soberania brasileira sobre a região. Para Jair Bolsonaro, a Amazônia é brasileira e deve servir aos interesses econômicos dos brasileiros, a quem cabe decidir o que proteger e o que explorar. De acordo com os conhecimentos que você tem sobre o tema, qual das duas posições lhe parece mais correta? A Amazônia deve continuar a ser brasileira ou ganhar status internacional? Por quê? Redija um texto dissertativo-argumentativo, explicando qual é seu ponto de vista sobre o assunto. 
+A seguir sugerimos alguns artigos que trazem informações relevantes sobre o tema da redação e devem servir como embasamento:
+Artigo 1: 
+MACRON DIZ QUE DISCUTIR STATUS INTERNACIONAL DA AMAZÔNIA É 'QUESTÃO QUE SE IMPÕE'
+O presidente francês apresentou nesta segunda (26) plano de ajuda do G7 para incêndios na Amazônia
+No mesmo dia em que o presidente da França, Emmanuel Macron, levantou a possibilidade de que houvesse um estatuto internacional para proteger a Amazônia, o governo de Jair Bolsonaro (PSL) decidiu rejeitar uma ajuda de US$ 20 milhões (R$ 83 milhões) do G7, clube de países ricos, para o combate aos incêndios na floresta. 
+Segundo o que o líder francês disse na manhã desta segunda (26), ao apresentar o plano de ajuda, a proteção da floresta seria "uma questão real que se imporia se um Estado soberano tomasse medidas concretas que claramente se opusessem ao interesse do planeta".
+Macron ressaltou, porém, que a discussão não cabia no âmbito da iniciativa ali anunciada, que prevê o envio de ajuda para o controle das chamas e, posteriormente, investimentos em reflorestamento.
+Já na noite desta segunda, contudo, o governo brasileiro disse que a ajuda não seria aceita. Segundo interlocutores do governo Bolsonaro que acompanham a discussão do tema, a oferta de auxílio foi entendida muito mais como uma tentativa de Macron de capitalizar politicamente em cima do tema do que uma iniciativa dos líderes do G7.
+Para Macron, o estatuto internacional "é um caminho que permanecerá aberto, nos próximos meses e anos, pois o desafio no plano climático é tal que ninguém pode dizer ‘não é problema meu’". 
+Ele teceu comparação: "A mesma coisa vale para aqueles que têm em seus territórios glaciares ou regiões com impacto sobre o mundo inteiro".
+Macron respondeu à declaração de Bolsonaro de que ele teria manifestado "mentalidade colonialista" ao se referir, nas redes sociais, à situação na Amazônia como crise internacional e emergência a ser discutida no G7 —fórum de que o Brasil não participa.
+O brasileiro também disse que seu par francês estava instrumentalizando problema interno do país sul-americano e, depois, que ele potencializava o ódio contra o Brasil.
+O chanceler Ernesto Araújo foi outro que reagiu às falas de Macron nesta segunda. Ele disse que o francês não conseguiu emplacar a ideia de uma "iniciativa para a Amazônia" no comunicado final da cúpula do G7 —o texto saiu enxuto e não menciona a floresta.
+"Espera-se da França —e de outros países que porventura apoiem suas ideias— que se engajem com seriedade nessas discussões no âmbito da UNFCCC [Convenção-Quadro das Nações Unidas Sobre Mudança do Clima], ao invés de lançar iniciativas redundantes, com montantes que ficam muito aquém dos seus compromissos internacionais, e com insinuações ambíguas quanto ao princípio da soberania nacional", afirmou, em nota, o Itamaraty.
+"Está muito evidente o esforço, por parte de algumas correntes políticas, de extrapolar questões ambientais reais, transformando-as numa ‘crise’ fabricada, como pretexto para introduzir mecanismos de controle externo da Amazônia", disse Araújo.
+O plano divulgado —com endosso de Alemanha, Canadá, EUA, França, Itália, Japão e Reino Unido— incluía a liberação dos recursos iniciais para ações de controle das queimadas. A etapa seguinte teria dotação orçamentária de US$ 30 milhões, segundo Macron, a serem destinados a ações de replantio de árvores e a projetos de apoio à agricultura sustentável.
+O presidente dos EUA, Donald Trump, não participou da reunião em que foi desenhado o plano. Ao longo do fim de semana, multiplicaram-se relatos de que ele e seus assessores estariam contrariados com a ênfase dada pelo anfitrião ao tema. Os visitantes teriam preferido um foco em questões econômicas e de comércio (como a guerra tarifária entre Washington e Pequim), como tradicionalmente acontece nesses encontros.
+Macron buscou minimizar a ausência de Trump, dizendo que ele tinha encontros bilaterais importantes. Afirmou que o colega apoia a iniciativa amazônica.
+Ao fazer o anúncio, ao lado do presidente Sebastián Piñera, do Chile (que sediará a conferência anual da ONU sobre o clima), o anfitrião disse que o fogo na floresta afeta diretamente nove países, inclusive a França —a Guiana Francesa é uma unidade administrativa do país europeu— e que, por causa disso, nenhum governo pode querer responder sozinho à emergência, "ainda que seja preciso respeitar a soberania nacional".
+A reação do governo brasileiro diante da gravidade dos incêndios, que vieram a conhecimento do público na semana passada, provocou indignação internacional e uma onda de protestos.
+Na noite de segunda, em entrevista a um dos telejornais de maior audiência da França, Macron afirmou que não se deve responsabilizar o presidente brasileiro pela situação na Amazônia "de jeito nenhum".
+Acrescentou, entretanto, que Bolsonaro pode ser criticado por, nas palavras do francês, "ter apoiado projetos econômicos contrários aos interesses da floresta" e não ter sido claro em relação ao compromisso do governo com o replantio de árvores.
+Mandamos mensagem clara [ao Brasil]: ‘Respeitamos sua soberania, mas esse assunto diz respeito ao planeta todo’. Podemos ajudá-los a reflorestar, encontrar meios para o seu desenvolvimento econômico que respeitem esse equilíbrio, mas não podemos deixá-los destruir tudo."  
+O presidente se esquivou de responder a uma pergunta sobre o quinhão de responsabilidade da França no desmatamento da Amazônia pelo fato de importar soja produzida na região em área devastada.
+"Não temos responsabilidade, mas cumplicidade", afirmou, evasivamente.
+Situação está sob controle, diz ministro da Defesa
+O ministro da Defesa, Fernando Azevedo e Silva, afirmou nesta segunda (26) que a situação de incêndios na Amazônia está sob controle. "Tem se alardeado que a situação está fora de controle. Não está. Já tivemos picos de queimadas em outros anos muitos maiores", disse, após reunião com Jair Bolsonaro.
+"Em princípio até a meteorologia ajudou." No encontro, ministros apresentaram ao presidente as informações sobre os primeiros dias da operação de GLO (Garantia da Lei e da Ordem) de combate às queimadas.
+
+Artigo 2: 
+A AMAZÔNIA É NOSSA
+O presidente Jair Bolsonaro, em entrevista à rádio Jovem Pan, falou sobre os riscos que o Brasil corre em não explorar ativamente a Amazônia. "A indústria da demarcação de reservas inviabiliza qualquer projeto (…) e eu vou rever isso para que indígenas e quilombolas possam vender ou explorar suas terras da maneira como acharem melhor. Eu quero explorar a região amazônica em parceria com os Estados Unidos, para não a perder". (...)
+Vista do lado da Europa, que já arrebentou suas florestas, muitas décadas e até séculos atrás, a desflorestação da Amazônia é uma coisa má, não apenas por causa de questões ambientais que afetarão todo o mundo, mas porque o equilíbrio ambiental vai ficar mais caro para as empresas europeias que vão precisar comprar mais CO2.
+Vista do Brasil, a coisa é diferente. Antes de ser patrimônio da humanidade, o território da Amazônia é parte integrante do Brasil. Independentemente de quem more no meio da selva, o Brasil é soberano e tem direito a dispor dela e a explorar economicamente, em conjunto com quem quiser, um recurso fantástico que é só seu por direito internacional. A soberania é inquestionável.
+Se a humanidade acha que tem direitos sobre a Amazônia, não tem problema. A humanidade que pague por eles. Até porque, como dizia o humorista Max Nunes, "o Brasil precisa explorar com urgência a sua riqueza - porque a pobreza não aguenta mais ser explorada". 
+[FIM_PROPOSTA_ARTIGOS] 
+[INÍCIO REDAÇÃO] 
+Preservação da Amazônia: Responsabilidade nacional ou internacional?
+Sabe-se que, apesar de a Amazônia não ser o pulmão do mundo, ela é fundamental para o controle ambiental do planeta. As decorrentes queimadas e o desmatamento colocam em risco o equilíbrio da floresta e conseguintemente, dos demais biomas.
+O atual presidente da França levantou, após doações de diversos países a fim de reestruturar a floresta, uma sugestão: tornar seu estatuto internacional. Não só a Amazônia, mas também outros territórios que implicam no funcionamento ambiental, como as zonas glaciais, tornando-as de importância mundial.
+Devido aos fatos mencionados, nota-se que os países que custearam a manutenção da floresta desejam, além de reconhecimento, regência acerca do bioma. O que é conveniente, afinal, aumentaria a interação entre os países na exploração correta da floresta, além da sua proteção melhor distribuída, tornando-a "problema" de todos.
+No momento, a reestruturação da Amazônia é prioridade e também é de suma importância sua proteção, prevenindo-a de destruições futuras. Além disso, a exploração adequada de seus recursos, contribuindo para a economia e crescimento do Brasil e dos países aliados ao bioma que é patrimônio da humanidade.
+[FIM REDAÇÃO] 
+--------------------------------------------------------------------------------
